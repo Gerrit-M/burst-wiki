@@ -41,6 +41,7 @@ pages:
     - BRS Docker Installation: en/brs-docker-installation.md
     - BRS Linux Installation: en/brs-linux-installation.md
     - BRS MacOS Installation: en/brs-macos-installation.md
+    - BRS Raspberry Installation: en/brs-raspberry-installation.md
     - BRS Windows Installation: en/brs-windows-installation.md
     - Burst Blockchain: en/burst-blockchain.md
     - Burstcoin Reference Software: en/burst-reference-software.md
